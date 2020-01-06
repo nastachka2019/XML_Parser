@@ -1,0 +1,39 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<flowers xmlns="http://www.example.com/flowers">
+
+    <plant id="G1" name="gerber" soil="sod_podzolic" multiplying="stalk">
+        <origin>
+            <country>Germany</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>23</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>25</temperature>
+            <light>true</light>
+            <watering>220</watering>
+            <flowering>1687-10-30</flowering>
+        </growingTips>
+    </plant>
+
+    <plant id="GL1" name="gladiolus" soil="podzolic" multiplying="leaf">
+        <origin>
+            <country>China</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>28</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>24</temperature>
+            <light>true</light>
+            <watering>240</watering>
+            <flowering>1358-01-01</flowering>
+        </growingTips>
+    </plant>
+
+</flowers>

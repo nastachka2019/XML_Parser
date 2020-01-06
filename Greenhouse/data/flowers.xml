@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flowers xmlns:tns="http://www.example.com/flowers">
+
+    <plant id="R1" name="rose" soil="unpaved" multiplying="stalk">
+        <origin>
+            <country>China</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>30</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>20</temperature>
+            <light>true</light>
+            <watering>150</watering>
+            <flowering>1452-01-19</flowering>
+        </growingTips>
+    </plant>
+
+    <plant id="T1" name="tulip" soil="sod_podzolic" multiplying="seed">
+        <origin>
+            <country>Netherlands</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>20</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>18</temperature>
+            <light>false</light>
+            <watering>150</watering>
+            <flowering>1580-12-01</flowering>
+        </growingTips>
+    </plant>
+
+    <plant id="A1" name="aster" soil="unpaved" multiplying="stalk">
+        <origin>
+            <country>Germany</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>40</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>25</temperature>
+            <light>true</light>
+            <watering>250</watering>
+            <flowering>1480-01-10</flowering>
+        </growingTips>
+    </plant>
+
+
+    <plant id="V1" name="violet" soil="podzolic" multiplying="leaf">
+        <origin>
+            <country>Spain</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>15</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>20</temperature>
+            <light>true</light>
+            <watering>250</watering>
+            <flowering>1258-07-21</flowering>
+        </growingTips>
+    </plant>
+
+    <plant id="V1" name="chamomile" soil="unpaved" multiplying="seed">
+        <origin>
+            <country>Russia</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>18</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>18</temperature>
+            <light>false</light>
+            <watering>180</watering>
+            <flowering>1589-01-16</flowering>
+        </growingTips>
+    </plant>
+
+    <plant id="OR1" name="orchid" soil="podzolic" multiplying="stalk">
+        <origin>
+            <country>Italy</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>29</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>15</temperature>
+            <light>false</light>
+            <watering>210</watering>
+            <flowering>1600-04-21</flowering>
+        </growingTips>
+    </plant>
+
+    <plant id="C1" name="clove" soil="sod_podzolic" multiplying="leaf">
+        <origin>
+            <country>Ukraine</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>21</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>25</temperature>
+            <light>false</light>
+            <watering>140</watering>
+            <flowering>1789-06-18</flowering>
+        </growingTips>
+    </plant>
+
+    <plant id="J1" name="jasmine" soil="podzolic" multiplying="leaf">
+        <origin>
+            <country>India</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>10</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>27</temperature>
+            <light>true</light>
+            <watering>190</watering>
+            <flowering>1895-07-02</flowering>
+        </growingTips>
+    </plant>
+
+    <plant id="L1" name="lotus" soil="unpaved" multiplying="stalk">
+        <origin>
+            <country>Austria</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>8</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>26</temperature>
+            <light>true</light>
+            <watering>110</watering>
+            <flowering>1400-08-09</flowering>
+        </growingTips>
+    </plant>
+
+    <plant id="B1" name="begonia" soil="unpaved" multiplying="seed">
+        <origin>
+            <country>Italy</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>red</leafColor>
+            <averageSize>11</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>16</temperature>
+            <light>true</light>
+            <watering>190</watering>
+            <flowering>1354-03-08</flowering>
+        </growingTips>
+    </plant>
+
+    <plant id="G1" name="gerber" soil="sod_podzolic" multiplying="stalk">
+        <origin>
+            <country>Germany</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>23</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>25</temperature>
+            <light>true</light>
+            <watering>220</watering>
+            <flowering>1687-10-30</flowering>
+        </growingTips>
+    </plant>
+
+    <plant id="GL1" name="gladiolus" soil="podzolic" multiplying="leaf">
+        <origin>
+            <country>China</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>28</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>24</temperature>
+            <light>true</light>
+            <watering>240</watering>
+            <flowering>1358-01-01</flowering>
+        </growingTips>
+    </plant>
+
+    <plant id="P1" name="poppy" soil="unpaved" multiplying="stalk">
+        <origin>
+            <country>USA</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>26</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>18</temperature>
+            <light>false</light>
+            <watering>300</watering>
+            <flowering>1252-08-19</flowering>
+        </growingTips>
+    </plant>
+
+
+    <plant id="M1" name="mimosa" soil="podzolic" multiplying="seed">
+        <origin>
+            <country>USA</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>21</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>27</temperature>
+            <light>true</light>
+            <watering>270</watering>
+            <flowering>1300-08-19</flowering>
+        </growingTips>
+    </plant>
+
+    <plant id="PN1" name="pione" soil="unpaved" multiplying="leaf">
+        <origin>
+            <country>Canada</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>30</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>23</temperature>
+            <light>true</light>
+            <watering>190</watering>
+            <flowering>1158-11-21</flowering>
+        </growingTips>
+    </plant>
+
+    <plant id="SG1" name="sage" soil="sod_podzolic" multiplying="leaf">
+        <origin>
+            <country>Poland</country>
+        </origin>
+        <visualParameters>
+            <stemColor>green</stemColor>
+            <leafColor>green</leafColor>
+            <averageSize>32</averageSize>
+        </visualParameters>
+        <growingTips>
+            <temperature>23</temperature>
+            <light>true</light>
+            <watering>180</watering>
+            <flowering>1751-05-21</flowering>
+        </growingTips>
+    </plant>
+
+</flowers>
